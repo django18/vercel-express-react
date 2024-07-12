@@ -1,0 +1,51 @@
+# Dependencies
+
+node_modules/
+
+# Build output
+
+build/
+
+# npm package lock file
+
+package-lock.json
+
+# dotenv file
+
+.env
+
+# Editor temporary files
+
+_.swp
+_.swo
+\*.log
+
+# IDE or OS specific files
+
+.DS_Store
+Thumbs.db
+
+# Coverage reports
+
+coverage/
+
+# Compiled TypeScript or JavaScript files if applicable
+
+_.js
+_.jsx
+_.ts
+_.tsx
+
+# Testing frameworks (choose one and uncomment)
+
+# jest/
+
+# mocha/
+
+# Specific to your project
+
+# Add any other files or directories specific to your project that
+
+# should not be tracked by Git
+
+.env.example
